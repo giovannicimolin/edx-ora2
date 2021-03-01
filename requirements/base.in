@@ -3,7 +3,7 @@
 
 # edX Internal Requirements
 edx-i18n-tools
-edx-submissions
+-e git+https://github.com/edx/edx-submissions.git@680f5ebcac1a1d3a5bee667105df997b6f0ff026#egg=edx-submissions
 edx-django-utils
 edx-toggles
 djangorestframework
